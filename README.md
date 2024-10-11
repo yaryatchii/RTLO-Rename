@@ -15,7 +15,7 @@
 ## Installation
 Clonez le dépôt GitHub :
 ```bash
-git clone https://github.com/votre-utilisateur/RTLO-Rename.git
+git clone [https://github.com/votre-utilisateur/RTLO-Rename.git](https://github.com/yaryatchii/RTLO-Rename.git)
 cd RTLO-Rename
 
 ```
