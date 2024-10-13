@@ -22,7 +22,7 @@ cd RTLO-Rename
 ## Utilisation
 Exécutez le script Python :
 ```bash
-python rtlo_rename.py
+python rtlo.py
 ```
 Entrez le nom du fichier que vous souhaitez déguiser et l'extension apparente.
 ## Exemple :
